@@ -10,8 +10,10 @@
     "test": ""
   },
   "dependencies": {
+    "babel-runtime": "^6.0.0",
+    "jquery": "^2.2.4",
     "vue": "^1.0.21",
-    "babel-runtime": "^6.0.0"
+    "vue-strap": "^1.0.11"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
@@ -29,7 +31,9 @@
     "html-webpack-plugin": "^2.8.1",
     "http-proxy-middleware": "^0.12.0",
     "json-loader": "^0.5.4",
+    "node-sass": "^3.7.0",
     "ora": "^0.2.0",
+    "sass-loader": "^3.2.0",
     "shelljs": "^0.6.0",
     "url-loader": "^0.5.7",
     "vue-hot-reload-api": "^1.2.0",
